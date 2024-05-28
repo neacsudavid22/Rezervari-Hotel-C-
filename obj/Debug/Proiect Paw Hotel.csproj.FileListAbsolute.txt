@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\Proiect Paw Hotel\bin\Debug\Proiect Paw Hotel.exe.config
+C:\Users\David\Desktop\Proiect Paw Hotel\bin\Debug\Proiect Paw Hotel.exe
+C:\Users\David\Desktop\Proiect Paw Hotel\bin\Debug\Proiect Paw Hotel.pdb
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect Paw Hotel.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.ClientiForm.resources
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.ClientNouForm.resources
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.Home.resources
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.Properties.Resources.resources
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.Rezervare.resources
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect Paw Hotel.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect Paw Hotel.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect Paw Hotel.exe
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect Paw Hotel.pdb
+C:\Users\David\Desktop\Proiect Paw Hotel\obj\Debug\Proiect_Paw_Hotel.ClientiVizualizare.resources

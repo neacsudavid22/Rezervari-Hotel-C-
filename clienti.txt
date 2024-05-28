@@ -1,0 +1,16 @@
+3,Modificat,Andrei,1985-07-12,0712345678,andrei.popescu@example.com
+6,Ionescu,Maria,1990-03-25,0723456789,maria.ionescu@example.com
+9,Vasilescu,Alexandru,1982-11-08,0734567890,alexandru.vasilescu@example.com
+12,Stan,Elena,1976-09-15,0745678901,elena.stan@example.com
+18,Munteanu,Ana,2024-05-27,0767890123,ana.munteanu@example.com
+21,Radu,Adrian,1980-02-18,0778901232,adrian.radu@example.com
+24,Dumitrescu,Cristina,1979-10-21,0789012345,cristina.dumitrescu@example.com
+27,Gheorghe,Mircea,1987-04-06,0790123456,mircea.gheorghe@example.com
+30,Neagu,Laura,1993-08-29,0701234567,laura.neagu@example.com
+12,Stan,Elena,1976-09-15,0745678901,elena.stan@example.com
+18,Munteanu,Ana,1995-12-03,0767890123,ana.munteanu@example.com
+15,Ionescu,Ion,1988-05-30,0700000000,ion.dima@example.com
+42,Bogdan,Trascaul,2000-05-27,0778787878,bogdan@gmail.com
+39,Neacsu,Email,1976-08-06,0789569649,liviuneacsu@yahoo.com
+45,sdasddf,sdfasfdfda,1999-05-27,0788989833,dsafa@sdfasdf.com
+51,sdfsd,asdasd,1999-05-28,0712345678,sdas@gmail.com
